@@ -55,3 +55,19 @@ textarea{
 	font-size: 50px;
 	font-family: monospace;
 }
+
+#tb_galeria{
+ 	width: 100%;
+}
+
+h2{
+	color: white;
+	font-family: monospace;
+}
+
+td{
+	text-align: center;
+}
+tr{
+	text-align: center;
+}
