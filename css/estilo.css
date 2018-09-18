@@ -115,7 +115,7 @@ header{
 }
 
 #izq{
-	width: 585px;
+	width: 260px;
 	height: auto; overflow: hidden;
 	border: 1px solid #ccc;
 	float: left;
@@ -130,11 +130,10 @@ header{
 
 
 #der{
-	width: 290px;
-	height: 300px;
+	width: 560px;
+	height: 315px;
 	border: 1px solid #ccc;
-	float: right;
-	color: 
+	float: right;	 
 }
 
 footer{
@@ -142,7 +141,7 @@ footer{
 	height: 100px;
 	text-align: center;
 	font-family: sans-serif;
-
+	
 }
 
 #footer p{
